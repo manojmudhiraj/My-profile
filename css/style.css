@@ -1,0 +1,19 @@
+body{
+    background-color: #EAF6F6;
+  }
+  table,th,td{ border: 1px solid rgb(139, 116, 116);
+  border-collapse: collapse;
+  }
+  th{ background-color: red;}
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+  }
+  
+  h3{ color: #66BFBF
+  
+  }
+  h1{ color:red;}
